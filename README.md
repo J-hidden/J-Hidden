@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/J-hidden](https://github.com/J-hidden)
 
-- 📝 I regularly write articles on [知乎--J-Hidden](知乎--J-Hidden)
+- 📝 I regularly write articles on [知乎--J-Hidden](https://www.zhihu.com/people/ghost-ink)
 
 - 💬 Ask me about **python3、Django**
 
